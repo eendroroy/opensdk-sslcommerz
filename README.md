@@ -22,7 +22,7 @@ Implementation of [SSLCOMMERZ PaymentGateway Developer API v4](https://developer
 <dependency>
     <groupId>io.github.eendroroy</groupId>
     <artifactId>opensdk-sslcommerz</artifactId>
-    <version>0.0.1-beta2</version>
+    <version>0.0.1-beta1</version>
 </dependency>
 ```
 
@@ -30,6 +30,6 @@ Implementation of [SSLCOMMERZ PaymentGateway Developer API v4](https://developer
 
 ```groovy
 dependencies {
-    implementation("io.github.eendroroy:opensdk-sslcommerz:0.0.1-beta2")
+    implementation("io.github.eendroroy:opensdk-sslcommerz:0.0.1-beta1")
 }
 ```
